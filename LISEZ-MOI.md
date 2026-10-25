@@ -9,7 +9,7 @@ Ce dossier contient ton appli complète. Elle se met en ligne gratuitement avec 
 | `index.html` | L'appli elle-même |
 | `manifest.webmanifest` | Nom, icône et couleurs pour l'installation |
 | `sw.js` | Permet à l'appli de fonctionner hors connexion |
-| `icons/` | Les icônes (médiator) |
+| `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`, `maskable-512.png` | Les icônes (médiator) |
 | `mon-repertoire.json` | Ton répertoire actuel, à importer une fois (étape 4) |
 | `LISEZ-MOI.md` | Ce guide |
 
@@ -24,7 +24,7 @@ Ce dossier contient ton appli complète. Elle se met en ligne gratuitement avec 
 1. Une fois connecté, clique sur **+** en haut à droite, puis **New repository**.
 2. Nom du dépôt : `atelier-guitare`. Coche **Public** (obligatoire pour GitHub Pages gratuit). Clique sur **Create repository**.
 3. Sur la page du dépôt vide, clique sur le lien **uploading an existing file**.
-4. Dézippe le dossier `atelier-guitare`, puis glisse **tout son contenu** dans la zone (les fichiers et le dossier `icons`, pas le dossier parent lui-même). Vérifie que `index.html` est bien à la racine dans la liste.
+4. Dézippe le dossier `atelier-guitare`, ouvre-le, sélectionne **tous les fichiers** qu'il contient et glisse-les dans la zone. Il n'y a aucun sous-dossier : tout est au même niveau, à côté de `index.html`.
 5. En bas, clique sur **Commit changes**.
 6. Va dans **Settings** (onglet du dépôt), puis **Pages** dans le menu de gauche.
 7. Sous **Build and deployment**, choisis **Source : Deploy from a branch**, **Branch : main**, dossier **/ (root)**, puis **Save**.
