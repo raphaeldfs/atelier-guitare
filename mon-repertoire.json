@@ -1,0 +1,8 @@
+{
+ "app": "atelier-guitare",
+ "version": 1,
+ "date": 1792939646924,
+ "data": {
+  "repLocal": "[{\"id\": \"rmvnxnb5xrt3u\", \"artist\": \"Adlane Guitare\", \"createdAt\": 1792939099461, \"emo\": [\"Mélancolique\"], \"genre\": [], \"notes\": \"\", \"order\": 10, \"status\": \"apprendre\", \"style\": [\"Arpèges\"], \"title\": \"Des accords à jouer la nuit\", \"updatedAt\": 1792939099461, \"video\": \"https://www.youtube.com/watch?v=IATJvPFrufM\", \"videoStart\": 0}, {\"id\": \"rmvnxxncei87b\", \"artist\": \"Eagles\", \"createdAt\": 1792939581806, \"emo\": [], \"genre\": [\"Rock\"], \"notes\": \"\", \"order\": 20, \"status\": \"apprendre\", \"style\": [\"Solo\"], \"title\": \"Hotel California - Solo\", \"updatedAt\": 1792939581806, \"video\": \"https://www.youtube.com/watch?v=jlySjNUzYgE\", \"videoStart\": 0}]"
+ }
+}
